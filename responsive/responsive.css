@@ -1,0 +1,330 @@
+@media (max-width: 1400px){
+    .header-section .fixed-width {
+        width: 1300px;
+    }
+    .room-section .fixed-width {
+        width: 1300px;
+        margin: auto;
+    }
+    .content-sectoion-1 {
+        padding: 0 20px;
+        width: 1300px;
+    }
+    .contact-section .fixed-width {
+        width: 1300px;
+        margin: auto;
+    }
+}
+@media (max-width: 1300px){
+    .header-section .fixed-width {
+        width: 1200px;
+    }
+    .room-section .fixed-width {
+        width: 1200px;
+        margin: auto;
+    }
+    .content-sectoion-1 {
+        padding: 0 20px;
+        width: 1200px;
+    }
+    .contact-section .fixed-width {
+        width: 1200px;
+        margin: auto;
+    }
+}
+@media (max-width: 1200px){
+    .header-section .fixed-width {
+        width: 1100px;
+    }
+    .room-section .fixed-width {
+        width: 1100px;
+        margin: auto;
+    }
+    .content-sectoion-1 {
+        padding: 0 20px;
+        width: 1100px;
+    }
+    .contact-section .fixed-width {
+        width: 1100px;
+        margin: auto;
+    }
+}
+@media (max-width: 1100px){
+    .header-section .fixed-width {
+        width: 1000px;
+    }
+    .room-section .fixed-width {
+        width: 1000px;
+        margin: auto;
+    }
+    .content-sectoion-1 {
+        padding: 0 20px;
+        width: 1000px;
+    }
+    .contact-section .fixed-width {
+        width: 1000px;
+        margin: auto;
+    }
+}
+@media (max-width: 1000px){
+    .header-section .fixed-width {
+        width: 900px;
+    }
+    .room-section .fixed-width {
+        width: 900px;
+        margin: auto;
+    }
+    .content-sectoion-1 {
+        padding: 0 20px;
+        width: 900px;
+    }
+    .contact-section .fixed-width {
+        width: 900px;
+        margin: auto;
+    }
+}
+@media (max-width: 900px){
+    .header-section .fixed-width {
+        width: 800px;
+    }
+    .header-right {
+        width: 100%;
+        text-align: center;
+    }
+    .header-left {
+        width: 100%;
+        text-align: center;
+    }
+    .banner-section {
+        height: 400px;   
+    }
+
+    .banner-section h1 {
+        margin-top: 131px;     
+    }
+    .room-section .fixed-width {
+        width: 800px;
+        margin: auto;
+    }
+    .image-section {
+        width: 100%;
+        text-align: center;
+    }
+    .content-1 {
+        width: 100%;
+        margin-top: 20px;
+    }
+    .content-sectoion-1 {
+        height: 750px;
+        width: 800px;
+    }
+    .contact-section .fixed-width {
+        width: 800px;
+        margin: auto;
+    }
+    
+    
+}
+@media (max-width: 800px){
+    .header-section .fixed-width {
+        width: 700px;
+    }
+    .banner-section {
+        height: 350px;
+    }
+
+    .room-section .fixed-width {
+        width: 700px;
+        margin: auto;
+    }
+    .room {
+        width: 100%;
+    }
+    .room-section {
+        height: 700px;
+    }
+    .content-sectoion-1 {
+        height: 760px;
+        width: 700px;
+    }
+    .contact-section .fixed-width {
+        width: 700px;
+        margin: auto;
+    }
+    
+    /* .contact {
+        width: 100%;
+        margin-top: -22px;
+        margin-bottom: 50px;
+    } */
+}
+@media (max-width: 700px){
+    .header-section .fixed-width {
+        width: 600px;
+    }
+    .banner-section h1 {
+        margin-top: 102px;
+    }
+    .room-section .fixed-width {
+        width: 600px;
+        margin: auto;
+    }
+    .content-sectoion-1 {
+        height: 780px;
+        width: 600px;
+    }
+    .image-section img {
+        max-width: 80%;
+    }
+    .contact-section .fixed-width {
+        width: 600px;
+        margin: auto;
+    }
+    
+}
+@media (max-width: 600px){
+    .header-section .fixed-width {
+        width: 500px;
+    }
+    .room-section .fixed-width {
+        width: 500px;
+        margin: auto;
+    }
+    .content-sectoion-1 {
+        height: 708px;
+        width: 500px;
+    }
+    .contact {
+        width: 100%;
+        margin-top: -20px;
+        margin-bottom: 50px;
+    }
+    .contact-section {
+        height: 510px;
+    }
+    .contact-section .fixed-width {
+        width: 500px;
+        margin: auto;
+    }
+    .footer-1 ul {
+        width: 400px;
+        margin: auto;
+    }
+}
+@media (max-width: 500px){
+    .header-section .fixed-width {
+        width: 400px;
+    }
+    .banner-section h1 {
+        font-size: 35px;
+    }
+    .room-section .fixed-width {
+        width: 400px;
+        margin: auto;
+    }
+    .room-section {
+        height: 750px;
+    }
+    .content-sectoion-1 {
+        height: 708px;
+        width: 400px;
+    }
+    .content p {
+        text-align: justify;
+    }
+    .contact-section .fixed-width {
+        width: 400px;
+        margin: auto;
+    }
+   
+}
+@media (max-width: 400px){
+    .header-section .fixed-width {
+        width: 300px;
+    }
+    .banner-section h1 {
+        font-size: 30px;
+    }
+    .banner-section p {
+        margin-top: 16px;
+        font-weight: 400;
+        font-size: 13px;
+
+    }
+    .banner-section button {
+        margin-top: 27px;
+        font-size: 15px;
+        padding: 6px 11px;
+    }
+    .banner-section {
+        height: 250px;
+    }
+    .banner-section h1 {
+        margin-top: 66px;
+    }
+    .room-section .fixed-width {
+        width: 300px;
+        margin: auto;
+    }
+    .room-section {
+        height: 850px;
+    }
+    .content-sectoion-1 {
+        height: 800px;
+        width: 300px;
+    }
+    .contact-section .fixed-width {
+        width: 300px;
+        margin: auto;
+    }
+    .footer-1 ul {
+        width: 350px;
+        margin: auto;
+    }
+}
+@media (max-width: 300px){
+    .header-section .fixed-width {
+        width: 200px;
+    }
+    .header-left h1 {
+        font-size: 29px;
+    }
+    .banner-section h1 {
+        margin-top: 65px;
+    }
+    .banner-section h1 {
+        font-size: 23px;
+    }
+    .banner-section button {
+        font-size: 12px;
+
+    }
+    .room-section .fixed-width {
+        width: 200px;
+        margin: auto;
+    }
+    .room-section {
+        height: 970px;
+    }
+    .content-sectoion-1 {
+        height: 1335px;
+        width: 200px;
+    }
+    .contact-section .fixed-width {
+        width: 200px;
+        margin: auto;
+    }
+    .contact-section {
+        height: 576px;
+    }
+    .footer-1 ul {
+        width: 250px;
+        margin: auto;
+    }
+}
+@media (max-width: 200px){}
+@media (max-width: 100px){}
+
+.p1 {
+	padding: 0 30px;
+}
